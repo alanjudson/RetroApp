@@ -1,4 +1,5 @@
 RetroApp::Application.routes.draw do
+  resources :quizes
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
